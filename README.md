@@ -1,6 +1,65 @@
-# Getting Started with Create React App
+# Glittering | Bridal Dress E-Commerce Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Glittering is a Persian, right-to-left e-commerce website designed for selling bridal dresses, engagement dresses, formal dresses, and evening dresses.  
+The project is built with **React** and **Tailwind CSS** and includes product listing, product details, shopping cart, login, and registration pages.
+
+## ✨ Features
+- Fully Persian and RTL layout
+- Modern bridal fashion store design
+- Home page with image slider
+- Product categories section
+- Latest products section
+- Products listing page
+- Category-based filtering
+- Price range filtering
+- Product detail page
+- Add to cart functionality
+- Shopping cart page with total price calculation
+- Login page
+- Registration page
+- Responsive UI with Tailwind CSS
+- Clean and minimal user interface
+
+## 🛠️ Technologies Used
+
+- React
+- Tailwind CSS
+- JavaScript
+- HTML5
+- CSS3
+- React Router DOM
+- Formik 
+
+
+## 📸 Project Screenshots
+
+### Home Page
+
+![Home Page](./screenshots/header.png)
+
+### Categories and Latest Products
+
+![Categories](./screenshots/catagory.png)
+
+### Products Page
+
+![Products Page](./screenshots/shop.png)
+
+### Product Detail Page
+
+![Product Detail](./screenshots/deatail.png)
+
+### Shopping Cart
+
+![Shopping Cart](./screenshots/bag.png)
+
+### Sign In Page
+
+![Sign In](./screenshots/signin.png)
+
+### Sign Up Page
+
+![Sign Up](./screenshots/signup.png)
 
 ## Available Scripts
 
